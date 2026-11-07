@@ -1,0 +1,135 @@
+{
+  "schema": 1,
+  "files": {
+    "README.md": {
+      "upstream_path": "packaging/research-toolkit/README.md",
+      "size": 3053,
+      "sha256": "10cdef5f5b08189078dd49bf9b9733795ecd9922aee944b14eb30c416911cf86"
+    },
+    "LICENSE": {
+      "upstream_path": "packaging/research-toolkit/LICENSE",
+      "size": 1097,
+      "sha256": "fc863c439f2e99ea210dd7012e7753c8ca7cb5ea4888de6fb2bd1f64fdaec31a"
+    },
+    "requirements.txt": {
+      "upstream_path": "packaging/research-toolkit/requirements.txt",
+      "size": 17,
+      "sha256": "1c803ca04270f3acd340ace239b1e86931871344e0070b4f6db9a59ae56336cb"
+    },
+    ".gitignore": {
+      "upstream_path": "packaging/research-toolkit/.gitignore",
+      "size": 158,
+      "sha256": "10549b31ae6a67ee2346ef2ae02b37857c215bb88165581dc091d9bf2869f8c1"
+    },
+    "CONTRIBUTING.md": {
+      "upstream_path": "packaging/research-toolkit/CONTRIBUTING.md",
+      "size": 835,
+      "sha256": "87bf145156518bc0598502e50fa9618ca9711309e9ead2a730172f56d998a345"
+    },
+    ".github/workflows/tests.yml": {
+      "upstream_path": "packaging/research-toolkit/.github/workflows/tests.yml",
+      "size": 438,
+      "sha256": "589eefa1073dec45374d62b35efa9a4ca3696dcb78ae988517099e26e8dd9c63"
+    },
+    "docs/USAGE.md": {
+      "upstream_path": "packaging/research-toolkit/docs/USAGE.md",
+      "size": 3126,
+      "sha256": "0e30ab1539d04c01d6494db27fc3d499608e8efcf6474dca0435b0d290cacad3"
+    },
+    "docs/FORMATS.md": {
+      "upstream_path": "packaging/research-toolkit/docs/FORMATS.md",
+      "size": 2512,
+      "sha256": "a7d9648c0830f4edafdb7a8b251d7e832e2463954d74026b60a1b18df26475e8"
+    },
+    "docs/RESEARCH.md": {
+      "upstream_path": "packaging/research-toolkit/docs/RESEARCH.md",
+      "size": 1701,
+      "sha256": "f4cddec4baf2284b872dc2ddb7353bd8cf87a781211d7962949c4a9ab2f81fc8"
+    },
+    "docs/VALIDATION.md": {
+      "upstream_path": "packaging/research-toolkit/docs/VALIDATION.md",
+      "size": 1067,
+      "sha256": "a288a0ff71018b5764fc8f9fa196eea54f846bfce27249a12a18e773b0170eb1"
+    },
+    "research.py": {
+      "upstream_path": "packaging/research-toolkit/research.py",
+      "size": 8685,
+      "sha256": "a9065dff78856256ac74fb4d68566232cfb5d14d881216cc70f6aab33a14f50d"
+    },
+    "tools/tests/test_research.py": {
+      "upstream_path": "packaging/research-toolkit/tests/test_research.py",
+      "size": 5004,
+      "sha256": "fc0de88ec5cf7ba668648101e11e79c2aaee90f890b9b8093d40dfd17a1143f9"
+    },
+    "RELEASE_CHECKS.md": {
+      "upstream_path": "packaging/research-toolkit/RELEASE_CHECKS.md",
+      "size": 2773,
+      "sha256": "0ace2b843332b9589de3373e774d7502dbd8e1f8550617e572ba043b49ded11e"
+    },
+    "tools/decode_ble.py": {
+      "upstream_path": "tools/decode_ble.py",
+      "size": 4986,
+      "sha256": "b71e4395d318c10459ed845280b31830a8dd2fa94e102088a8cd7ac401b447dc"
+    },
+    "tools/decode_sprites.py": {
+      "upstream_path": "tools/decode_sprites.py",
+      "size": 46786,
+      "sha256": "a63b2fa0ba4b8486720e4d67a7a3f9c1e184331608900688088b74634bf08829"
+    },
+    "tools/sprite_pipeline.py": {
+      "upstream_path": "tools/sprite_pipeline.py",
+      "size": 4849,
+      "sha256": "92aeb0cd4bad92e3c40fc0fad9dd5b35eebf06ff83f883f40aaf556e420fba3a"
+    },
+    "tools/decode_sounds.py": {
+      "upstream_path": "tools/decode_sounds.py",
+      "size": 4569,
+      "sha256": "b6562e7a82ee220388528fd13390689b803dd0f94df0fab090641854cbc6837c"
+    },
+    "tools/lzo_beachlife.py": {
+      "upstream_path": "tools/lzo_beachlife.py",
+      "size": 3714,
+      "sha256": "2dad552e075137ea9e0c8936bd44c2875fcf27cabc04a03d6c2ec3b0ab4986bc"
+    },
+    "tools/extract_wateranims.py": {
+      "upstream_path": "tools/extract_wateranims.py",
+      "size": 8915,
+      "sha256": "90081f81db15e87ce4433b147176357aa5a4073243d8526d2e00c9f3c9ca0491"
+    },
+    "tools/extract_buildings.py": {
+      "upstream_path": "tools/extract_buildings.py",
+      "size": 10559,
+      "sha256": "205ba2eb000cc8a7563ea183b70333782c39ff13580755633d2296d6f0ba2901"
+    },
+    "tools/extract_installshield_v6.py": {
+      "upstream_path": "tools/extract_installshield_v6.py",
+      "size": 9514,
+      "sha256": "b0f60956875871328317aead8d82b85a60bd9f7b9fa78c5bb7e58ba7884ec56e"
+    },
+    "tools/project_paths.py": {
+      "upstream_path": "tools/project_paths.py",
+      "size": 10160,
+      "sha256": "47d2ada32e4eb21ad7a19373930f4b5ffb680df8ece8e3cd8b6a3d3cfb692776"
+    },
+    "tools/run_tool_tests.py": {
+      "upstream_path": "tools/run_tool_tests.py",
+      "size": 1759,
+      "sha256": "3fdcda7ce7451cce8aac6029c968bc1a6716325d1567541911a49cbab98e9b2a"
+    },
+    "tools/tests/test_decode_sprites.py": {
+      "upstream_path": "tools/tests/test_decode_sprites.py",
+      "size": 14082,
+      "sha256": "30eb67409c90db257f7388779b8a7eea4d21d81e6688d7760dac67d0eb6ec22a"
+    },
+    "tools/tests/test_extract_wateranims.py": {
+      "upstream_path": "tools/tests/test_extract_wateranims.py",
+      "size": 6524,
+      "sha256": "d4a36c01113ef42d1e27c46f2b8c145347bfd8a96f48e7f75bcba15a37376992"
+    },
+    "tools/tests/test_extract_buildings.py": {
+      "upstream_path": "tools/tests/test_extract_buildings.py",
+      "size": 3891,
+      "sha256": "33425eaeec71358033b6e7ee71b5127bd65c69921ad846f735c774f82d8be72d"
+    }
+  }
+}
