@@ -21,6 +21,11 @@
       "size": 158,
       "sha256": "10549b31ae6a67ee2346ef2ae02b37857c215bb88165581dc091d9bf2869f8c1"
     },
+    ".gitattributes": {
+      "upstream_path": "packaging/research-toolkit/.gitattributes",
+      "size": 82,
+      "sha256": "14f8d121796d6282c9708c9637ceb950c041f64d71f82facf3368067678442af"
+    },
     "CONTRIBUTING.md": {
       "upstream_path": "packaging/research-toolkit/CONTRIBUTING.md",
       "size": 835,
@@ -63,8 +68,8 @@
     },
     "RELEASE_CHECKS.md": {
       "upstream_path": "packaging/research-toolkit/RELEASE_CHECKS.md",
-      "size": 2773,
-      "sha256": "0ace2b843332b9589de3373e774d7502dbd8e1f8550617e572ba043b49ded11e"
+      "size": 3108,
+      "sha256": "5964bc71f8e7b5bc2b63180918201f508e0cde27cda7e358134ae5fb871550c8"
     },
     "tools/decode_ble.py": {
       "upstream_path": "tools/decode_ble.py",

@@ -1,0 +1,2 @@
+# Preserve the exact distribution bytes recorded in SOURCE_MANIFEST.json.
+* -text
